@@ -9,7 +9,7 @@ This is a responsive web application for viewing in both Mobile and Desktop.
 
 ## Demo
 
-Check out a live demo and try it for yourself: [demo](https://cinemy-movie-app.netlify.app/)
+Check out a live demo and try it for yourself: [demo](https://rofael-movies-react.netlify.app/)
 
 <!-- # ScreenShots -->
 
@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Step 1:Clone the repository
 
-     git clone https://github.com/tech-jamara/React-Movie-App.git
+     git clone https://github.com/Rofael-Alfons/react-movie-app.git
 
 ### step 2:Navigate to the clone
 
